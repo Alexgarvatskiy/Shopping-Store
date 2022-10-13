@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Nike SB Dunk Low Pro Classic Green",
+        "price": 199,
+        "imgUrl": "/public/imgs/shoes1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Nike SB Dunk Low Pro Chicago",
+        "price": 199,
+        "imgUrl": "/public/imgs/shoes2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Nike Dunk Low Retro Varsity Maize",
+        "price": 199,
+        "imgUrl": "/public/imgs/shoes3.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Nike SB Dunk Low Pro Fog",
+        "price": 199,
+        "imgUrl": "/public/imgs/shoes4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Nike SB Dunk Low Pro Court Purple",
+        "price": 199,
+        "imgUrl": "/public/imgs/shoes5.jpeg"
+    }
+]
